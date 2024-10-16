@@ -1,0 +1,26 @@
+{
+  "name": "apivagas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "express": "^4.21.1",
+    "js": "^0.1.0",
+    "json": "^11.0.0",
+    "mjs": "^1.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.0",
+    "sequelize": "^6.37.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
